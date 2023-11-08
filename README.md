@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twinkle Varma</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Bird Call Recognition**
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **varmatwinkle11@gmail.com**
